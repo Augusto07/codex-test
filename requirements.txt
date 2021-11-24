@@ -1,4 +1,4 @@
 pydantic==1.8.2
 json5==0.9.5
 typing-extentions==3.7.4.3
-requests=2.25.1
+requests==2.25.1
