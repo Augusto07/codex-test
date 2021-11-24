@@ -18,7 +18,7 @@ Extras:
 
 First, I designed this Entity-Relationship model, just to help me see more clearly how to create the SQL tables:
 
-![.]('Questions/assets/ER_model.png)
+![.](https://github.com/Augusto07/codex-test/blob/develop/Questions/assets/ER_model.png)
 
 Then, I create the SQL tables:
 
